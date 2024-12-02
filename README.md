@@ -13,7 +13,7 @@ The use of this project is as a means to go over and practice Study Guide topics
 
 ## Credits
 
-N/A
+N/ A
 
 ## License
 
